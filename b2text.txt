@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is text from brach2
+=======
+this is text file from branch3
+>>>>>>> branch3
